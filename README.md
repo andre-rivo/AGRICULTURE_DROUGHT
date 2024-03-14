@@ -1,8 +1,8 @@
 Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION.ipynb) to launch the visualization notebook on MyBinder.<br>
 Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION_preprocess.ipynb) to launch the preprocess notebook on MyBinder.
 
-# EXTREME PRECIPITATION
-Repository for collaboration on workflows for the Extreme precipitation hazard
+# AGRICULTURAL DROUGHT
+Repository for collaboration on workflows for the Agricultural Drought hazard
 
 # How to run
 
@@ -19,18 +19,18 @@ You may also download the repository from GitHub to run it locally:
 
 3. Clone the repository
     ```bash
-    git clone git@github.com:CLIMAAX/HEAVY_RAINFALL.git
+    git clone git@github.com:CLIMAAX/AGRICULTURE_DROUGHT.git
     ```
 
 4. Move into the cloned repository
     ```bash
-    cd HEAVY_RAINFALL
+    cd AGRICULTURE_DROUGHT
     ```
 
 5. Create and activate your environment from the `environment.yml` file
     ```bash
     conda env create -f environment.yml
-    conda activate climaax_extreme_precipitation
+    conda activate climaax_agri_drought
     ```  
 
 6. Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
