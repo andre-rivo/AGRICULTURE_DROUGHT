@@ -1,4 +1,3 @@
-Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION.ipynb) to launch the visualization notebook on MyBinder.<br>
 Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CLIMAAX/HEAVY_RAINFALL/main?labpath=EXTREME_PRECIPITATION_preprocess.ipynb) to launch the preprocess notebook on MyBinder.
 
 # AGRICULTURAL DROUGHT
